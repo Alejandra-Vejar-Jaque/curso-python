@@ -14,4 +14,4 @@ celular4 = Celular("sony","hp","mp")
 
 print(celular1.marca)
 print(celular2.marca)
-
+print(celular3.marca)
